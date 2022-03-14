@@ -1,0 +1,55 @@
+*{
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+ 
+header {
+    text-align: center;
+    color: red;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #000000;
+    word-spacing: 20px;
+}
+ 
+.title {
+    width: 480px;
+    height: 300px;
+    text-align: center;
+    background-image: url(/STREETFIGHTER/SF_Logo.webp);
+    background-size: contain;
+}
+ .moves {
+     width: 500px;
+     height: 300px;
+     text-align: center;
+     background-image: url(/STREETFIGHTER/0056b8fbe0c868caa865656bdbfafaa2.jpg);
+     background-size: contain;
+ }
+
+ a {
+    color: red;
+    text-decoration: none;
+}
+a:hover  {
+    color: orange;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h3 {
+    text-align: center;
+    color: red;
+}
+ 
+p {
+    text-align: center;
+    color: red;
+}

@@ -1,0 +1,71 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header {
+    text-align: center;
+    color: red;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #000000;
+    word-spacing: 20px;
+}
+
+.title {
+    width: 480px;
+    height: 300px;
+    text-align: center;
+    background-image: url(/STREETFIGHTER/SF_Logo.webp);
+    background-size: contain;
+}
+ 
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+ 
+.commenter {
+    font-size: larger;
+    background-color: black;
+    padding: 5px;
+    margin: 0px;
+}
+
+.comments {
+    background-color: rgb(119, 119, 119);
+    
+}
+ 
+.content {
+    padding-left: 15px;
+    background-color: rgb(63, 53, 53);
+    padding: 50px;
+    color: black;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+ 
+.reply {
+    margin-left: 70px;
+}
+
+html {
+    background-color: khaki;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+a:hover  {
+    color: orange;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    height: 70px;
+}
+ 
